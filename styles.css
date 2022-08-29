@@ -272,6 +272,7 @@
 }
 /*Product Detail Expanded*/
 .product-detail-Expanded {
+  background: var(--white);
   width: 360px;
   padding-bottom: 24px;
   position: absolute;
